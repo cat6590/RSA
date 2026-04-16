@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "rsa",
+  "version": "${version}",
+  "name": "rsa",
+  "description": "idk",
+  "authors": [
+    "ricedotwho"
+  ],
+  "icon": "assets/rsa/logo.png",
+  "environment": "client",
+  "entrypoints": {
+    "rsm": [
+      "com.ricedotwho.rsa.RSA"
+    ]
+  },
+  "mixins": [
+    "rsa.mixins.json"
+  ],
+  "accessWidener": "rsa.classtweaker",
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "minecraft": "~1.21.10",
+    "java": ">=21",
+    "rsm": "*"
+  }
+}
