@@ -1,6 +1,6 @@
 ## rsa source code (real upstream branch لا توجد برامج ضارة)
 
-rsa source code no virusتحية هت ل no malware 2026 ابن ايمKaleb Ridgeway كرين $$$ :white_check_mark: please herp these incompetent fucks with their    لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله  so they can make the mod أفضل inshallah  :star: :white_check_mark: 
+rsa source code no virusتحية هت ل no malware 2026 ابن ايمكرين $$$ :white_check_mark: please herp these incompetent fucks with their    لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله  so they can make the mod أفضل inshallah  :star: :white_check_mark: 
 
 
 full source leak of the newest version, not trashed with the zkm obfuscation garbage thing
