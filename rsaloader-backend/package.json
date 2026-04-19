@@ -1,0 +1,23 @@
+{
+  "name": "rsaloader-backend",
+  "version": "1.0.0",
+  "description": "RSALoader authentication backend + Discord bot",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "bot": "node bot/bot.js",
+    "dev:server": "nodemon src/server.js",
+    "dev:bot": "nodemon bot/bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

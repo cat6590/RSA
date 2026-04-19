@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "rsloader",
+	"version": "1.0.0",
+	"name": "rsloader",
+	"description": "Fabric utility module",
+	"authors": [
+		"rs-team"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rsloader/rsloader.png",
+	"environment": "client",
+	"entrypoints": {
+		"preLaunch": ["com.sicok.loader.PreLaunchEntry"]
+		},
+	"mixins": ["rsloader.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
